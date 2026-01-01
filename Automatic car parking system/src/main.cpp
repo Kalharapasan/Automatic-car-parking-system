@@ -122,5 +122,5 @@ void loop() {
   lcd.print(Slot);
   lcd.print("  ");
 
-  delay(200);
+  delay(1000);
 }
