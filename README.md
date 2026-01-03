@@ -148,9 +148,8 @@ Project/
 
 Pasan Kalhara
 
-## License
+## [License](./LICENSE.md): Proprietary – Permission Required
 
-This project is open source and available for educational purposes.
 
 ## Future Enhancements
 
